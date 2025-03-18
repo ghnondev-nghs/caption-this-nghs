@@ -3,7 +3,9 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption Test
+
+New Caption for Pull Request
+
 
 ![riddlocat](https://octodex.github.com/images/riddlocat.png)
 {: .center}
