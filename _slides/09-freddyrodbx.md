@@ -3,7 +3,8 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Here are Freddy's changes.
+Another change.
 
 ![dinotocat](https://octodex.github.com/images/dinotocat.png)
 {: .center}
